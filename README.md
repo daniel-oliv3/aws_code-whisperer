@@ -1,4 +1,6 @@
-## Amazon CodeWhisperer
+### 1 - AWS CODEWHISPERER | FREE COPILOT?
+
+### Amazon CodeWhisperer
 
 - O **Amazon CodeWhisperer** é um companheiro de codificação de **IA** que gera *sugestões completas de linha e código de função em seu IDE* para ajudá-lo a fazer mais com mais rapidez.
 
@@ -32,6 +34,12 @@
 **Visual Studio Code**
 - Extensions
     - `AWS Toolkit`
+
+
+### 2 - GitHub Copilot
+
+- copilot
+    site: https://github.com/features/copilot
 
 
 
