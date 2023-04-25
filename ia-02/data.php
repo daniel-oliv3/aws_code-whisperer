@@ -1,5 +1,21 @@
 <?php 
 
+// create an array of names in portuguese
+$names = array("Daniel", "Maria", "João", "Ana", "Pedro");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
